@@ -1,1 +1,1 @@
-Enter a value for n Enter a value for r nCr = 14515200
+Enter a length in cm : Length is inches 39.3701
