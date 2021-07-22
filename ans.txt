@@ -1,1 +1,1 @@
-Enter Employee Type : Enter Salary  : Enter OtHrs : Net Salary is 13400
+Enter a Number : Factorial of 8is40320
